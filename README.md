@@ -72,4 +72,4 @@ shapes = ['circle', 'rectangle', 'triangle', 'square', 'sphere', 'cube', 'pyrami
 
 Идея заключается в том, чтобы определить алгоритмом кластеризации N самых часто встречаемых цветов по картинке. Далее по ним классифицировать освещение по теплоте и яркости. А также построить распределение этих цветов, которое будет передавать цветовую гамму. 
 
-!(https://github.com/FMariaD/2023-cv-aliens/blob/main/pics/Kmeans_example.png)
+![](https://github.com/FMariaD/2023-cv-aliens/blob/main/pics/Kmeans_example.png)
